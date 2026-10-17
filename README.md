@@ -1,4 +1,4 @@
-#🤖 Python Chatbot — CodeAlpha Internship Project
+🤖 Python Chatbot — CodeAlpha Internship Project
 
 📌 Project Overview
 
@@ -57,6 +57,7 @@ Practiced Python fundamentals.
 Learned how to handle user input.
 Implemented conditional statements and chatbot responses.
 Gained experience building a beginner-level Python project.
+
 👩‍💻 Author
 
 SAMARTH B.tech AIML 2nd Year
