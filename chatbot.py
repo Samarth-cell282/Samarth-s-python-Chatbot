@@ -54,21 +54,7 @@ def chatbot_response(message):
             "A function is reusable code defined using "
             "the def keyword."
         )
-    # Questions about Samarth and Kannuuu
-    elif "who does samarth love" in message:
-        return "Samarth loves his kannuuu "
-
-    elif "who is samarth favourite girl" in message or "who is samarth's favourite girl" in message:
-        return "Of course, it's kannuuuu! "
-
-    elif "what does kannu mean to samarth" in message or "what does kannuuu mean to samarth" in message:
-        return "Kannuuu is very precious and special to Samarth. "
-
-    elif "who is always in samarth's heart" in message:
-        return "Kannuuu has a very special place in Samarth's heart!" 
-
-    elif "who is samarth's special person" in message or "who is samarth special person" in message:
-        return "It's Kannuuu, of course! The one who makes Samarth smile! "        
+          
     # Date and time
     elif "time" in message:
         return "The current time is " + datetime.now().strftime("%I:%M %p")
